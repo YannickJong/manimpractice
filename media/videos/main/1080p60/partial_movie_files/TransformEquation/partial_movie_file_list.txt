@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/TransformEquation/2902699114_3837998516_1075348951.mp4'
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/TransformEquation/2365230007_2918308884_230770454.mp4'
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/TransformEquation/2365230007_2474512999_1737459498.mp4'
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/TransformEquation/2365230007_1359220891_4121291445.mp4'
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/TransformEquation/2365230007_2474512999_3667040278.mp4'
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/TransformEquation/2365230007_1875870332_1085572655.mp4'
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/TransformEquation/2365230007_2474512999_4204047096.mp4'
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/TransformEquation/2365230007_283785651_3946541808.mp4'
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/TransformEquation/2365230007_2474512999_1263629854.mp4'

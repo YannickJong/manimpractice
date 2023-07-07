@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/HelloCircle/2902699114_1363950887_223132457.mp4'
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/HelloCircle/2365230007_2243450025_2437414606.mp4'
+file 'file:C:/Users/Yannick/PycharmProjects/manimpractice/media/videos/main/1080p60/partial_movie_files/HelloCircle/2365230007_2474512999_2825974411.mp4'
